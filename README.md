@@ -1,3 +1,5 @@
+* Run online version - deployment on Heroku https://taxi-service368.herokuapp.com/
+
 # Description
 Taxi service is my first project to show my skills in Java, OOP and SOLID principles, JDBC, Web. In this web application you can add new manufacturers and cars to the database. Other then key CRUD operations there are other features like adding driver to a car and showing a list of cars for currently logged in driver.
 
@@ -16,6 +18,3 @@ To run this project:
 4. Initialize your database using init_db.sql file.
 5. Add your info to ConnectionUtil located in util to be able to connect to your database.
 6. Run this project using Tomcat's local server.
-
-* Run online version - deployment on Heroku https://taxi-service368.herokuapp.com/
-
