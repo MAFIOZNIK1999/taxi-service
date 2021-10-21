@@ -16,4 +16,6 @@ To run this project:
 4. Initialize your database using init_db.sql file.
 5. Add your info to ConnectionUtil located in util to be able to connect to your database.
 6. Run this project using Tomcat's local server.
-https://taxi-service368.herokuapp.com/
+
+# Run online version - deployment on Heroku https://taxi-service368.herokuapp.com/
+
